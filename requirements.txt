@@ -9,7 +9,6 @@ django-filter==25.1
 djangorestframework==3.16.1
 isort==6.0.1
 mccabe==0.7.0
-mysqlclient==2.2.7
 platformdirs==4.3.8
 psycopg2-binary==2.9.10
 pycodestyle==2.14.0
