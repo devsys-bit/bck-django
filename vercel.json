@@ -12,6 +12,5 @@
       "src": "/(.*)",
       "dest": "api/wsgi.py"
     }
-  ],
-  "buildCommand": "bash build.sh"
+  ]
 }
