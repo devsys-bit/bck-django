@@ -1,0 +1,7 @@
+.vscode/*
+.DS_Store
+**/migrations/
+**/__pycache__/
+.env
+env/
+doc/
